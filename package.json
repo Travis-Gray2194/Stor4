@@ -1,0 +1,19 @@
+{
+  "name": "stor4",
+  "version": "0.0.1",
+  "description": "Ecommerce Project with MySQL ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Stor4"
+  ],
+  "author": "Travis Gray",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1"
+  }
+}
